@@ -3,7 +3,7 @@ Simulating forest fire using python and a web application to display results
 
 This project consists of a web application and a simple forest fire simulator made with python
 
-Prerequisites:
+Prerequisites:<br />
 1)Apache server for php (preferably XAMPP) - https://www.apachefriends.org/index.html<br />
 2)pygame library for python - pip install pygame<br />
 3)Any MySQL server (can use MySQL server in XAMPP or https://dev.mysql.com/downloads/workbench/ )<br />
