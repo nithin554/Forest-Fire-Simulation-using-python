@@ -216,7 +216,7 @@ var myChart = new Chart(ctx, {
       }
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4opcLGTKyKQmI71iwrhojuEcmvn_cOAM&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=yourgoogleapikey&callback=initMap">
     </script>
 	    </div>
 </div>
